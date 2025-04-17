@@ -5,7 +5,7 @@ This repository contains a simple and production-like example of how to use PySp
 ## 📖 Related Article
 
 Check out the full Medium article here:  
-👉 [Efficient Spark SQL without Temp Views: Cleaner Data Pipelines](https://medium.com/@tugnolialessio)
+👉 [Efficient Spark SQL without Temp Views: Cleaner Data Pipelines](https://medium.com/@tugnolialessio/efficient-spark-sql-without-temp-views-cleaner-data-pipelines-d1c6a2c38e61)
 
 > ✅ Works with PySpark 3.3 and later
 
